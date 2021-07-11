@@ -8,7 +8,7 @@ After cloning/downloading the file, Setup a Firebase project (with setups for Au
 
 From the project directory, run:
 
-### `npm install`
+#### `npm install`
 
 #### `npm start`
 
@@ -28,11 +28,11 @@ and then, run:
 to Run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. Login with the admin credentials to retrieve the course registration details of the users in Excel format.
 
-### `Screenshots`
+## `Screenshots`
   
 ![Screenshot](login.png)
 ![Screenshot](user.png)
 ![Screenshot](admin.png)
   
-### `View Online`
+## `View Online`
 [https://ssit-ssn.web.app/](https://ssit-ssn.web.app/)

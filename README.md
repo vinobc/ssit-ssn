@@ -26,4 +26,4 @@ and then, run:
 ### `npm start`
 
 to Run the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser. lLogin with the admin credentials to retrieve the course registration details of the users in Excel format.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. Login with the admin credentials to retrieve the course registration details of the users in Excel format.

@@ -10,7 +10,7 @@ From the project directory, run:
 
 ### `npm install`
 
-### `npm start`
+#### `npm start`
 
 to Run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -23,7 +23,7 @@ node src/firebase/set-custom-clainms.js <admin-user-id>
 
 and then, run:
 
-### `npm start`
+#### `npm start`
 
 to Run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. Login with the admin credentials to retrieve the course registration details of the users in Excel format.

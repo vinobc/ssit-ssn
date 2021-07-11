@@ -88,7 +88,7 @@ function Signup(props) {
                 </button>
                 <Link to="/login">Log In</Link>&nbsp;&nbsp;
                 <GoogleLogin
-                  clientId="338393659621-bv2ag84pgadccc9ceare3brdsco5uam6.apps.googleusercontent.com"
+                  clientId=""
                   buttonText="Log In"
                   onSuccess={handleSubmit(onSubmit)}
                   isSignedIn={true}
